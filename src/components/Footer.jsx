@@ -13,7 +13,7 @@ const footerStyle = {
     newsletterheading: `text-xl font-bold`,
     newsletteremailcontainer: `flex md:flex-col lg:flex-row space-x-3 md:space-x-0 lg:space-x-3 md:space-y-3 lg:space-y-0 justify-between`,
     newsletteremailinput: `rounded-md px-3 w-[80%] md:w-full lg:w-[80%]  mx-auto py-2`,
-    newsletterbtn: `bg-[#6948FF] text-slate-50 px-3 py-2 rounded-md hover:shadow-lg hover:shadow-[#6948FF]/40`,
+    newsletterbtn: `bg-[#6948FF] text-slate-50 px-3 py-2 rounded-md hover:shadow-lg hover:shadow-[#6948FF]/40 hover:scale-110 duration-300`,
 
 
 }

@@ -14,7 +14,7 @@ function App() {
         <Route path='/faqpage' element={<Faqpage/>}/>
         <Route path='/contactpage' element={<Contactpage/>}/>
       </Routes>
-      <Home/>
+      
     </>
   );
 }
